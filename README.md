@@ -24,6 +24,6 @@ This project is licensed under the [License Name] License - see the [LICENSE](LI
 
 ## Contact
 
-If you have any questions, suggestions, or just want to say hello, you can reach us at [your-email@example.com] or join our [Discord server](link-to-discord).
+If you have any questions, suggestions, or just want to say hello, you can reach us at [AgileWebInnovations@gmail.com].
 
 Let's innovate together! 🚀

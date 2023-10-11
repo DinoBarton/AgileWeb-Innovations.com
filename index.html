@@ -197,6 +197,47 @@
   </ul>
 </div>
 
+<div class="email-enquiry-widget">
+  <h2>Email Enquiry</h2>
+  <form action="/send-email-enquiry" method="post">
+    <input type="email" name="email" placeholder="Your email address">
+    <textarea name="message" placeholder="Your message"></textarea>
+    <button type="submit">Send Enquiry</button>
+  </form>
+</div>
+
+.email-enquiry-widget {
+  width: 300px;
+  margin: 0 auto;
+}
+
+.email-enquiry-widget h2 {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.email-enquiry-widget form {
+  margin-top: 10px;
+}
+
+.email-enquiry-widget input,
+.email-enquiry-widget textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  margin-bottom: 10px;
+}
+
+.email-enquiry-widget button {
+  width: 100%;
+  background-color: #000;
+  color: #fff;
+  padding: 10px;
+  border: 1px solid #000;
+  cursor: pointer;
+}
+
+
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="assets/js/vendor/jquery-2.2.4.min.js"><\/script>')</script>
 <script src="assets/js/functions-min.js"></script>
